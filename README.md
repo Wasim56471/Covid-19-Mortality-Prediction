@@ -4,6 +4,8 @@ A machine learning project that predicts COVID-19 mortality from patient age, ge
 
 > **This project is a machine learning demonstration and is not intended for medical purposes.**
 
+![App demo](app_demo.jpg)
+
 Built with pandas, NumPy, Matplotlib and scikit-learn.
 
 ## Dataset
